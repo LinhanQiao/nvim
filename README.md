@@ -1,2 +1,1 @@
-# nvim
-moving the repo of nvim from qiaolinhan.git
+This is a `lua` structured neovim env. 
